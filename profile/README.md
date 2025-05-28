@@ -1,4 +1,4 @@
-:warning:Due to limited number of licenses, we will periodically remove dormant users (no activity for 90 days and above) from our GitHub members and external collaborators list.
+:warning:Due to limited number of licenses, we will periodically remove dormant users (no activity for 30 days and above) from our GitHub members and external collaborators list.
 We recommend that only users who need to use the WHO GitHub regularly should be members of the organisation or outside collaborators
 
 GitHub documentation: https://docs.github.com/
